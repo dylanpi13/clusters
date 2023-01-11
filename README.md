@@ -1,3 +1,5 @@
+[Github repo](https://github.com/dylanpi13/clusters)
+This readme is also the report!
 
 # Clusters.ipynb 
 This project is for clustering peptides based on changes in HDX (hydrogen-deuterium exchange) to identify regions of a protein that are associated with conformational transitions. This has been tested on actual experimental data, but that cannot be shared here,
